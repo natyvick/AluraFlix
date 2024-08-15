@@ -24,6 +24,21 @@ section{
 .chamada-texto {
     margin-right: 5%;
 }
+
+
 h1{
     font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+img {
+
+height: 300px;
+
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
